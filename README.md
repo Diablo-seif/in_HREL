@@ -1,12 +1,11 @@
-# in_HREL
+# in_HREL (HR Employee)
 
-The module is employee
+add  a
 
-add in
-
-
-1-  hr_employee_form_inherit  after (gender) --add--> military_certificate
+1-  hr_employee_form_inherit  
+          after (gender) --add--> military_certificate
 
 
-2- hr_employee_tree_inherit  after (parent_id) --add--> gender
+2- hr_employee_tree_inherit  
+          after (parent_id) --add--> gender
 
